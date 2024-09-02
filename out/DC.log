@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.euc) (TeX Live 2020) (preloaded format=platex 2020.12.19)  1 SEP 2024 12:30
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.euc) (TeX Live 2020) (preloaded format=platex 2020.12.19)  3 SEP 2024 00:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/haraguchitakuya/Desktop/簡記問題一問一答DC編/DC.tex
-(/Users/haraguchitakuya/Desktop/膂∴�^^98�^^95^^8f蕁^^8c筝^^80�^^95^^8f筝^^80膈^^94DC膩�/DC.tex
+**/Users/haraguchitakuya/Desktop/DC_kanki/DC.tex
+(/Users/haraguchitakuya/Desktop/DC_kanki/DC.tex
 pLaTeX2e <2020-02-02>+3 (based on LaTeX2e <2020-02-02> patch level 5)
 L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/platex/jsclasses/jsarticle.cls
 Document Class: jsarticle 2020/02/02 jsclasses (okumura, texjporg)
@@ -362,53 +362,58 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 17.
 (out/DC.toc
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10> not available
-(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 3.
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 3.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 3.
+(Font)              scaled to size 9.60999pt on input line 2.
 LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <10> not available
-(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 3.
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 3.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 3.
+(Font)              scaled to size 9.60999pt on input line 2.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 3.
+(Font)              scaled to size 6.72699pt on input line 2.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+(Font)              scaled to size 4.805pt on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ))
 \tf@toc=\write6
 \openout6 = `DC.toc'.
 
-[1] (./sec1.tex [2]) (./sec2.tex
+[1] (./sec1.tex
 LaTeX Font Info:    Font shape `JT1/gt/b/n' in size <10> not available
-(Font)              Font shape `JT1/gt/bx/n' tried instead on input line 4.
+(Font)              Font shape `JT1/gt/bx/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 4.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 4.
+(Font)              scaled to size 9.60999pt on input line 5.
 LaTeX Font Info:    Font shape `JY1/gt/b/n' in size <10> not available
-(Font)              Font shape `JY1/gt/bx/n' tried instead on input line 4.
+(Font)              Font shape `JY1/gt/bx/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 4.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 4.
-[3] [4] [5]) (./sec3.tex
+(Font)              scaled to size 9.60999pt on input line 5.
+[2]
+Overfull \hbox (40.25948pt too wide) in paragraph at lines 95--112
+ [][][] 
+ []
+
+[3]) (./sec2.tex [4] [5] [6]) (./sec3.tex
 File: figure/nentanika.jpg Graphic file (type bmp)
 <figure/nentanika.jpg>
-[6] [7] [8] [9] [10] [11]) (./sec4.tex [12] [13] [14]) (./sec6.tex [15]) (./sec7.tex [16]) (./sec9.tex [17] [18]) (./sec10.tex
+[7] [8] [9] [10] [11] [12]) (./sec4.tex [13] [14] [15]) (./sec6.tex [16]) (./sec7.tex [17]) (./sec9.tex [18] [19]) (./sec10.tex
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 5.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -417,14 +422,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[19] [20]) Excluding 'comment' comment. (out/DC.aux) ) 
+[20] [21]) Excluding 'comment' comment. (out/DC.aux) ) 
 Here is how much of TeX's memory you used:
  5754 strings out of 481140
- 70916 string characters out of 5917416
+ 70871 string characters out of 5917416
  358896 words of memory out of 5000000
  21645 multiletter control sequences out of 15000+600000
  546038 words of font info for 93 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 33i,14n,37p,304b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,14n,37p,292b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/DC.dvi (21 pages, 61816 bytes).
+Output written on out/DC.dvi (22 pages, 70364 bytes).
